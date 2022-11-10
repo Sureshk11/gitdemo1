@@ -1,11 +1,11 @@
 class demo
 {
 
-    psvm()
+    public static void main (String args[])
     {
 
 
-     sop ();
+     System.out.println("Hello cadc");
 
      }
 
